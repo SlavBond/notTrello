@@ -1,0 +1,7 @@
+node_modules
+dist
+package-lock.json
+
+./not-trello-back-end/node_modules
+./not-trello-back-end/dist
+./not-trello-back-end/package-lock.json
